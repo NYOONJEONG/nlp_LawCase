@@ -1,5 +1,6 @@
 # nlp_LawCase
 ## 사기 판례 매칭
+```bash
 ├── 1.Data
 │   ├── fraud.csv
 │   ├── 판례 데이터 크롤링.ipynb
@@ -23,3 +24,4 @@
 ├── hanja.csv
 ├── hanjahangul.py
 └── settings.json
+```
